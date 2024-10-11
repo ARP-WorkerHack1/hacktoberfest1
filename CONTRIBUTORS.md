@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aditya Raghavendran](https://github.com/ARP-WorkerHack1)
+- Place: Chennai, Tamil Nadu, India
+- Bio: Student, Web developer, Python Developer
+- GitHub: [Aditya_Raghavendran](https://github.com/ARP-WorkerHack1)
